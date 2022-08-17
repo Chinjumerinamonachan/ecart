@@ -1,0 +1,2 @@
+# ecart
+django project
